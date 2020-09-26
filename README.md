@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/eKC4sQT.jpg)
+![Logo](https://i.imgur.com/j6UcPAu.png)
 
 # Do you want to use it?
 Use ⬇This on your website!
