@@ -56,13 +56,13 @@ function openInYT(id) {
 function catAscii() {
 }
 
-function c.console.log(text, colorhex) {
+function cclog(text, colorhex) {
 	var atext = "%c" + text
 	var csstext = "color: " + colorhex + "; font-family: sans-serif;"
 	console.log(atext, csstext)
 }
 
-function shortlink.isgd(link) {
+function shortlinkisgd(link) {
 	var isgdcreatelink = "http://is.gd/create.php?format=simple&url="
 	
 
