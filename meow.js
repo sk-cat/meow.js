@@ -16,7 +16,7 @@
 var version = "delta"
 
 function help(com) {
-	if com = null {
+	if (com = null) {
 		var text = "███╗   ███╗███████╗ ██████╗ ██╗    ██╗        ██╗███████╗ \n████╗ ████║██╔════╝██╔═══██╗██║    ██║        ██║██╔════╝ \n██╔████╔██║█████╗  ██║   ██║██║ █╗ ██║        ██║███████╗ \n██║╚██╔╝██║██╔══╝  ██║   ██║██║███╗██║   ██   ██║╚════██║ \n██║ ╚═╝ ██║███████╗╚██████╔╝╚███╔███╔╝██╗╚█████╔╝███████║ \n╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚═╝ ╚════╝ ╚══════╝ \n" + ""
 	}
 }
@@ -46,7 +46,7 @@ return connect
 function openInYT(id) {
 	var yt_x-callback-url = "vnd.youtube://"
 	var yturl = "https://youtube.com/"
-	if id = null {
+	if (id = null) {
 		document.location(yt_x-callback-url)
 	} else {
 		document.location(yt_x-callback-url + yturl + id)
