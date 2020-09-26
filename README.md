@@ -3,5 +3,5 @@
 # Do you want to use it?
 Use ↓ This on your website!
 ```html
-<script src="https://skcat.tk/meow.js/meow.js">
+<script src="https://raw.githubusercontent.com/sk-cat/meow.js/master/meow.js">
 ```
