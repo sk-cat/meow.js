@@ -9,7 +9,7 @@
 // ╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚═╝ ╚════╝ ╚══════╝
 // 
 // made by Slovak_Cat and cats on 🌍 Eatrh in 2020
-// © sk_cat() & Slovak_Cat & David Pilarčík 2019-2020
+// © sk_cat() & Slovak_Cat 2019-2020
 // This Project is not open source and information about licensing you can see on skcat.tk/meow.js/licensing
 // 
 
