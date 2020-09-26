@@ -62,4 +62,11 @@ function cclog(text, colorhex) {
 function shortlinkisgd(link) {
 	var isgdcreatelink = "http://is.gd/create.php?format=simple&url="
 	
+	}
 
+function editwebpageAsText() {
+	document.body.contentEditable = "true"; document.designMode = "on"
+
+completion();
+	return "contentEditable=true desingMode=on"
+}
