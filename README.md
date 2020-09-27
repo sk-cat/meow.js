@@ -5,3 +5,7 @@ Use ↓ This on your website!
 ```html
 <script src="https://raw.githubusercontent.com/sk-cat/meow.js/master/meow.js">
 ```
+or use in :js: 
+```javascript
+script.src = "https://raw.githubusercontent.com/sk-cat/meow.js/master/meow.js"
+```
