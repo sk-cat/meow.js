@@ -12,6 +12,7 @@
 // © sk_cat() & Slovak_Cat 2019-2020
 // 
 
+var meowjs_available = true
 var version = "delta"
 
 function help(com) {
