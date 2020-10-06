@@ -70,3 +70,7 @@ function editwebpageAsText() {
 completion();
 	return "contentEditable=true desingMode=on"
 }
+
+function echo(echo) {
+return echo
+} 
