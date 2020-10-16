@@ -74,4 +74,12 @@ completion();
 
 function echo(echo) {
 return echo
-} 
+}
+
+function w_Che(a, b) {
+  var mAT = a+b;
+  var m = b;
+  var non_percetonial = mAT / m;
+  var final = non_percetonial*100;
+  return "𝔀= " + final + "%"
+ }
